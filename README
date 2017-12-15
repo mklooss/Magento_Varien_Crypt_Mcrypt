@@ -9,7 +9,7 @@ installation (modman):
 ~# modman clone https://github.com/mklooss/Magento_phpseclib.git
 ~# modman clone https://github.com/mklooss/Magento_Varien_Crypt_Mcrypt.git
 
-currently there is not other test
+currently there is test
 
 Related to:
 https://github.com/Inchoo/Inchoo_PHP7/issues/98

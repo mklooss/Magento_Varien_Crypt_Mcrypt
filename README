@@ -1,0 +1,9 @@
+I've tried to run Magento 1.9.3.7 on PHP7.2, but there is no MCRYPT
+
+you will also need phpseclib/mcrypt_compat:
+
+Why modman, we have many store with an modman setup and without composer
+
+Related to:
+https://github.com/Inchoo/Inchoo_PHP7/issues/98
+https://github.com/OpenMage/magento-lts/issues/129

@@ -1,3 +1,5 @@
+DEPRECATED since 2017-12-17
+
 I've tried to run Magento 1.9.3.7 on PHP7.2, but there is no MCRYPT
 
 you will also need phpseclib:
